@@ -4,7 +4,6 @@ Uygulama tamamen **eğlence amaçlı** geliştirilmiştir. Web speech API kullan
 
 ### Çalıştırma
 
-
 ```
 
 $ git clone https://github.com/melihs/ver-mehteri.git
@@ -14,6 +13,9 @@ $ cd ver-mehteri
 son olarak da index.html dosyasını açın. :)
 
 ```
+
+### Ekran görüntüsü
+![ekran görüntüsü](ss.png)
 
 
 ### Yapılacaklar
