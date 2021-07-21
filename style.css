@@ -1,0 +1,24 @@
+body {
+  font-family: 'Architects Daughter', cursive;
+}
+
+h1 {
+  font-family: 'Knewave', 'cursive';
+}
+
+.btn-close {
+  display: none;
+}
+
+.status {
+  animation : fade 1s infinite;
+}
+
+@keyframes fade {
+  0% {
+    color: black;
+  }
+  100% {
+    color: white;
+  }
+}
